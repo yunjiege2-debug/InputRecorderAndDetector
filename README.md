@@ -1,4 +1,3 @@
-# Input Recorder & Detector
 
 # Python scripts for mouse and keyboard automation
 
