@@ -16,9 +16,4 @@ The project includes four main scripts:
 ## How to use it
 Each script is kept simple so you can jump into the code and change things around. Whether you need to adjust the timing, change the trigger keys, or integrate them into a larger project, the logic is straightforward.
 
-## Requirements
-*   Python 3.x
-*   Relevant libraries (such as pynput or pyautogui)
-
-## License
-MIT
+## Relevant libraries ：pynput，pyautogui，mouse,keyboard,pydirectinput
